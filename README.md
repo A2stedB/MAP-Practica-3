@@ -1,7 +1,7 @@
-#Resumen de la prueba 94
+#Resumen de la practica
 
-Aprendiendo goot   : )
+Aprendiendo git   : )
 
-Discurso de Tipo 1: cambiar se?al de WC sin subir al local y hacer un pull del remoto : )
+Conflicto de Tipo 1: change en CW sin subir al local y hacer un pull del remoto : )
 
-Mas cosas que genera conflicto de tipo 1 y Habituarnos a generar conflictos al ciclo de trabajo con cosas que crea conflicto de tipo 1 y Git : )
+Mas cosas que genera cositas de tipo 1 y Habituarnos a generar conflictos al ciclo de trabajo con cosas que crea conflicto de tipo 1 y Git : )
