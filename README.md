@@ -10,4 +10,4 @@ Mas cosas que genera dinero de cambios para tipo 41 y Habitu342nos a generar con
 
 Anadir cositas nuevas para el tipo 4
 
-Añadir Nueva funcionalidad para rotar piezas con el ratón 
+Añadir function scollPieces
